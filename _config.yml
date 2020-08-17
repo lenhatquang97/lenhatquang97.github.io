@@ -4,19 +4,16 @@
 title: Sliding Wind's blog
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Blog về code, cuộc sống và những thứ khác :> 
 
 # Your name to show in the footer
-author: Some Person
+author: Wind
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+ 
 
 # --- Logo --- #
 
@@ -39,10 +36,8 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  facebook: "https://www.facebook.com/potluck123"
+  github: "https://github.com/lenhatquang97"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -65,10 +60,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
   facebook: true
-  linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
