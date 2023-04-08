@@ -43,7 +43,7 @@ Buổi sáng sớm thức dậy ra sân bay làm thủ tục các thứ, sau đ�
 
 Đầu tiên thì mình qua Liho Tea thử trà sữa mà ai cũng bảo ngon. Chắc là bản thân mình cảm thấy không hợp trà sữa, mặc dù mình kêu nhiều trà (cũng gần 1 năm trở lại đây mình mới uống lại trà sữa).
 
-![Liho Tea](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/liho.jpeg)
+![Liho Tea](/assets/images/liho.jpeg)
 
 Sau đó, trong khu Bugis có food court tên là Albert Centre, mình quyết định ăn thử món Cơm gà Hải Nam (quán là Tong Shian) mà tên dài lắm. Món đầu tiên mà mình ăn thấy hợp nhất, ức gà rút xương xắt ra, và cơm nấu với nước luộc gà, gừng với lá dứa, đi kèm là 1 chén nước dùng gà. Cơm gà Hải Nam mình đã ăn quanh Singapore hầu hết chất lượng như nhau, chỉ hơn nhau ở phần cơm và súp. Nước súp không có bột ngọt (kindly sorry for Uncle Roger) :), là một điểm cộng. 
 
