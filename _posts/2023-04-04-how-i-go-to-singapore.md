@@ -169,6 +169,7 @@ Chi phí về nhà ở thuộc hàng đắt đỏ, nên chỗ ở sẽ hơi nh�
 - Gia đình. Đối với trẻ nhỏ thì chắc chắn sẽ có nhiều lựa chọn hơn, ví dụ như Universal, Sea Aquarium, Botanic Gardens,...
 - Thích mua sắm. Singapore có nhiều khu mua sắm, rất nhiều thương hiệu. 
 - Mong muốn rèn luyện đôi chân vàng. Đi bộ nhiều và đi tàu điện nhiều.
+
 ## Lời khuyên
 - Chọn khách sạn gần khu mình muốn đi chơi (gần cỡ 500m chẳng hạn), giá sẽ hơi chát nhưng bù lại đi chơi khá là thuận tiện. Đừng nên chọn phòng con nhộng.
 - Cần một đôi chân thật khỏe để có thể đi nhiều chỗ hơn, như bạn thấy thì mình không thể đi buổi tối vì chân sưng 1-2 chỗ. 
