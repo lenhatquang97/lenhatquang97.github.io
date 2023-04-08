@@ -43,77 +43,77 @@ Buổi sáng sớm thức dậy ra sân bay làm thủ tục các thứ, sau đ�
 
 Đầu tiên thì mình qua Liho Tea thử trà sữa mà ai cũng bảo ngon. Chắc là bản thân mình cảm thấy không hợp trà sữa, mặc dù mình kêu nhiều trà (cũng gần 1 năm trở lại đây mình mới uống lại trà sữa).
 
-![Liho Tea](../assets/images/liho.jpeg)
+![Liho Tea](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/liho.jpeg)
 
 Sau đó, trong khu Bugis có food court tên là Albert Centre, mình quyết định ăn thử món Cơm gà Hải Nam (quán là Tong Shian) mà tên dài lắm. Món đầu tiên mà mình ăn thấy hợp nhất, ức gà rút xương xắt ra, và cơm nấu với nước luộc gà, gừng với lá dứa, đi kèm là 1 chén nước dùng gà. Cơm gà Hải Nam mình đã ăn quanh Singapore hầu hết chất lượng như nhau, chỉ hơn nhau ở phần cơm và súp. Nước súp không có bột ngọt (kindly sorry for Uncle Roger) :), là một điểm cộng. 
 
-![Haianese Chicken Rice](../assets/images/haianese_chicken_rice.jpeg)
+![Haianese Chicken Rice](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/haianese_chicken_rice.jpeg)
 
 
 Buổi chiều lúc này do mình phải họp online nên thành ra mình kiếm một chỗ nghỉ chân có chỗ cắm điện để ngồi nghe họp. Chỗ mà mình đi là Ice Lab xung quanh khu Bugis. 
 
-![Ice Lab](../assets/images/ice_lab_study.jpeg)
+![Ice Lab](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/ice_lab_study.jpeg)
 
 Mà xui lúc đang họp là trời bên ngoài tự nhiên mưa, 4h chiều mưa còn chưa dứt, và xui thay là đã để dù ở trong vali lúc đó nên thành ra khi đèn xanh thì mình chạy vụt qua dầm mưa để qua Bugis Junction. Lúc đó mưa chưa dứt nên mình dạo quanh khu đó luôn (thực ra là đau chân kinh khủng vì đi khu này dễ bị lạc).
 
 Bugis Junction có thể hiểu là 5-6 cái mall thông nhau, và nối ở dưới lòng đất, thành ra khu này đi qua khu kia mà không sợ mưa (sau này mình mới phát hiện ra). Mình trước hết đi mua đồ ở Cold Storage trước, sau đó mua mỹ phẩm giùm đứa bạn. Kiếm nơi bán cũng là một thách thức, vì hơi xui là có thể phải bay qua khu khác tìm (có tầng nhưng mà rộng và không biết đâu là mặt đất) nên dễ bị lạc. 
 
 <p float="left" align="middle">
-  <img src="../assets/images/bugis_part.jpg" width="40%" />
-  <img src="../assets/images/bugis_street.jpeg" width="40%" /> 
+  <img src="https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/bugis_part.jpg" width="40%" />
+  <img src="https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/bugis_street.jpeg" width="40%" /> 
 </p>
 
 Này là một góc của khu Arab:
 <p float="left" align="middle">
-  <img src="../assets/images/arab_tower.jpeg" width="40%" />
-  <img src="../assets/images/mosque.jpeg" width="40%" /> 
+  <img src="https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/arab_tower.jpeg" width="40%" />
+  <img src="https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/mosque.jpeg" width="40%" /> 
 </p>
 
 Sau khi đi dạo quanh Bugis xong, mình mới quay về khách sạn lúc đó gần 9h tối mình checkin xong rồi dạo xung quanh khu Arab xem có gì ăn. Tuy nhiên, chỗ nào giá cũng mắc :), món khai vị và món chính đều trên 10 SGD. Mình mới tìm 1 món thấp nhất và có thể tạm ăn được (thực ra khó ăn) kèm với bánh mì của người Thổ. Tuy nhiên khi nhìn bill thì ngoài phí thuế là GST ra còn thêm SVC Charge (khoảng tiền phí dịch vụ, còn sự thực là gì thì search Google).
 
-![Arab Food](../assets/images/turkey_food.jpeg)
+![Arab Food](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/turkey_food.jpeg)
 
 ## Ngày 2
 Buổi sáng mình ăn sáng ở Ya Kun Kaya Toast. Mình kêu 1 set thì có bánh mì phết bơ Kaya + bơ đậu phộng, trứng trần Trà thì đậm mùi trà và ít mùi sữa, khá là ngon, có điều bánh mì bơ Kaya khá là ngán, ăn 2 miếng là đã ngán rồi. Fun fact là Kaya chính là ca dé (bên VN mình thấy có xôi ca dé chứ chưa thấy loại này).
 
-![Kaya Toast](../assets/images/kaya_toast.jpeg)
+![Kaya Toast](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/kaya_toast.jpeg)
 
 Mình đi MRT qua Marina Bay, và đi bộ qua khu Apple Store chỗ Marina Bay Sands (đi bộ khá là xa). Xui thay, trời mưa ầm ầm và Apple Store mở cửa lúc 10h sáng. 
 
-![Apple Store](../assets/images/apple_store.jpeg)
+![Apple Store](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/apple_store.jpeg)
 
 Lúc đó mình tạt ngang qua The Shoppes của Marina Bay Sands dạo quanh cho đến khi hết mưa. Cỡ 9h30 thì hết mưa nhưng mình không đủ thời gian để chờ Apple Store mở cửa, nên thành ra mình qua sư tử biển check-in :).
 
-![Marina Bay Sands](../assets/images/marina_bay_sands.jpeg)
+![Marina Bay Sands](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/marina_bay_sands.jpeg)
 
-![Merlion](../assets/images/merlion.jpg)
+![Merlion](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/merlion.jpg)
 
 Sau khi check-in thì mất gần 1 tiếng mới tìm được MRT ở Raffles gần sư tử biển. 11h trưa mình đi MRT tới trạm Chinatown để rủ bạn mình đi ăn. Chinatown đã thử qua Satay, cơm Nasi Lemak và đợi xếp hàng 30 phút chỉ để mua Soy Sauce Chicken Rice của Liao Fan Hawker Chan (1 sao Michelin).
 
 Satay (thịt xiên) thì cảm thấy nước chấm ngon, thịt ướp hợp với khẩu vị của mình (nước chấm có pha bơ đậu phộng). 
 
-![Satay](../assets/images/satay.jpeg)
+![Satay](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/satay.jpeg)
 
 Cơm Nasi Lemak thì mắm Sambal là điểm nhấn (mắm hơi cay nhưng có vị ngọt). 
 
-![Nasi Lemak](../assets/images/nasi_lemak.jpeg)
+![Nasi Lemak](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/nasi_lemak.jpeg)
 
 Đặc biệt, cơm gà của Liao Fan mình thấy xứng đáng đợi chờ, sốt của cơm gà ăn khác biệt, và giá chỉ có 3.5 SGD thôi. Lưu ý là Hawker Chan có nhiều cơ sở, tuy nhiên nếu bạn muốn thử chính gốc thì có thể ghé Chinatown khu food court.
 
 <p float="left" align="middle">
-  <img src="../assets/images/hawker_chan.jpeg" width="40%" /> 
-  <img src="../assets/images/chicken_rice.jpeg" width="40%" />
+  <img src="https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/hawker_chan.jpeg" width="40%" /> 
+  <img src="https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/chicken_rice.jpeg" width="40%" />
 </p>
 
 Ăn xong thì mình ghé Orchard đi qua nhà sách Nhật là Kinokuniya (lớn nhất ở trong Singapore) mua xíu đồ, ghé thêm libary@orchard để tìm đọc với nghỉ chân và ghé thêm siêu thị Nhật là Don Don Donki. 
 
-![Orchard@Library](../assets/images/library%40orchard.jpg)
+![Orchard@Library](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/library%40orchard.jpg)
 
 Tiếp tục chuyến đi là mình dạo quanh khu Little India để ngắm cảnh với lại đi mua dầu ở Mustafa Centre. Trong khu Mustafa bán cực kỳ đa dạng, đặc biệt thuốc và dầu bán tràn lan. Little India nói chung thì bước chân vô cửa hàng nào đều sẽ có một mùi đặc trưng (này hơi khó diễn tả).
 
 <p float="left" align="middle">
-  <img src="../assets/images/mustafa_1.jpeg" width="40%" /> 
-  <img src="../assets/images/mustafa_3.jpeg" width="40%" />
+  <img src="https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/mustafa_1.jpeg" width="40%" /> 
+  <img src="https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/mustafa_3.jpeg" width="40%" />
 </p>
 
 
@@ -122,37 +122,37 @@ Tiếp tục chuyến đi là mình dạo quanh khu Little India để ngắm c�
 ## Ngày 3
 Đến ngày này thì rút kinh nghiệm là buổi sáng sẽ thư thả hơn, nên 8h mới đi ra MRT đi qua HarbourFront để tới Sentosa. Lúc này tới HarbourFront là đã tới VivoCity, mình quyết định ăn sáng bằng món cơm vịt quay ở Kopitiam trong VivoCity (bánh Kaya Toast làm mình ngán nên mình không ăn lại nữa). 
 
-![Duck Rice](../assets/images/duck_rice.jpeg)
+![Duck Rice](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/duck_rice.jpeg)
 
 Sau đó gần trưa mình làm một tô cơm thịt gà Terriyaki với trứng lòng đào. 
 
-![Teriyaki Rice](../assets/images/terriyaki_rice.jpeg)
+![Teriyaki Rice](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/terriyaki_rice.jpeg)
 
 Lúc này mình mới đi qua Sentosa ở lầu 3, và tới trạm Imbiah Station. Mình đi bộ tới Skyline Luge để lấy vé do mình đã đặt trên Klook, tuy nhiên người bán bảo là không đặt Klook trước, phải đặt giờ chơi trước. Chắc người ta thấy mình nai tơ, và lần đầu đi nên họ xếp cho mình 1h chiều là được chơi. Thành ra lúc đi là 11h30 nên mình phải đợi 1h chiều. Đến tới lúc này, mình quyết đinh tìm chỗ dừng chân và mình qua Starbucks dừng chân và tranh thủ ngồi học đem laptop tới 1h chiều (đó, đó, lý do đó). 
 
-![Starbucks](../assets/images/starbuck.jpeg)
+![Starbucks](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/starbuck.jpeg)
 
 Đến 2h30 chiều là mình chơi xong Skyline Luge. Skyline Luge thực ra là xe truợt từ trên xuống và đi qua Skyline (gần giống đi cáp treo) từ dưới lên. Cảm nhận cuả mình là cua quẹo khá dễ đi (có 4 ngã rẽ), và chỉ nên đi 2 lượt là đủ (mình mua 4 lượt). Skyline Luge sẽ thích hợp với gia đình nhiều hơn, bởi vì mình thấy khá nhiều gia đình đi qua trò chơi này.
 
-![Sentosa](../assets/images/sentosa.jpeg)
+![Sentosa](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/sentosa.jpeg)
 
 Tiếp tục thì mình đi qua trạm Beach Station bằng Sentosa MRT, và ngắm biển Siloso Beach. 
 
-![Siloso Beach](../assets/images/large_beach.jpg)
+![Siloso Beach](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/large_beach.jpg)
 
 Không phải biển nào cũng có thể tắm được, và biến tắm được nhìn khá chán nên mình không thích. Tất nhiên là mình không thể so sánh với nước mình, vì nước mình đường bờ biển dài nên tắm mệt nghỉ luôn. Sentosa hiện đang khai thác tiềm năng du lịch nên tương lai có thể sẽ thấy nhiều theme park hơn.
 
-![Beach able to swim](../assets/images/beach_able_to_swim.jpeg)
+![Beach able to swim](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/beach_able_to_swim.jpeg)
 
  Sau đó mình dạo quanh khu biển ở Sentosa xíu và về lúc 4h chiều. Sau đó mình đi ăn tối quán Sushi ở khu Bugis và về khách sạn lúc 7h30 chiều.
 
- ![Sushi](../assets/images/sushi.jpeg)
+ ![Sushi](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/sushi.jpeg)
 
 ## Ngày 4
 Ngày cuối mình ra sân bay và tham quan Jewel Changi, còn đối với Changi Experience Studio thì mình không kịp tham quan do nơi này 11h sáng mở cửa nên không kịp trải nghiệm. Jewel Changi khá là đẹp, nhưng lúc 8h sáng ở Singapore vẫn còn tối.
 Lúc này đi bộ tới Jewel Changi cũng khá là đuối.
 
-![Jewel](../assets/images/jewel.jpeg)
+![Jewel](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/jewel.jpeg)
 
 ## Review khách sạn (Capsule Hotel)
 Mình đi một mình và mình thích trải nghiệm mới lạ nên mới chọn thử CUBE Kampong Glam Capsule Hotel (phòng con nhộng). Bản chất dạng này chính là ký túc xa, ở giường tầng, nhưng thay vào đó là phòng tầng (chỉ dùng để ngủ). Nơi ổ cắm điện, phòng tắm + toilet là dùng chung. Tuy nhiên phòng tắm + toilet khá là hẹp. 1 đêm ở CUBE tốn tầm 800 ngàn, suy ra ở 3 đêm thì cỡ 2 triệu 400.
