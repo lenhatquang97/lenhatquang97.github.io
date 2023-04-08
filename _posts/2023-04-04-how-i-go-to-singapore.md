@@ -39,7 +39,7 @@ Giấy tờ, thẻ blah blah:
 ## Ngày 1
 Buổi sáng sớm thức dậy ra sân bay làm thủ tục các thứ, sau đó tầm trưa là tới Terminal 4. Ở khu thủ tục check ICA thì chỉ có quét khuôn mặt và lấy dấu vân tay, nhưng bạn nên thủ sẵn email xác nhận ICA để trình nếu hải quan cần. Sau đó mình nhận SIM và thẻ Ez-link đã đặt trước và qua Terminal 3 để đi MRT bằng xe buýt trung chuyển miễn phí. Mình đi vào khách sạn gửi đồ trước, nhưng khách sạn bảo chưa tới thời gian checkin nên đành phải để đồ tại nơi đó và đi qua khu Bugis ăn uống.
 
-![Changi Airport](/assets/images/changi.jpeg)
+![Changi Airport](https://raw.githubusercontent.com/lenhatquang97/lenhatquang97.github.io/master/assets/images/changi.jpeg)
 
 Đầu tiên thì mình qua Liho Tea thử trà sữa mà ai cũng bảo ngon. Chắc là bản thân mình cảm thấy không hợp trà sữa, mặc dù mình kêu nhiều trà (cũng gần 1 năm trở lại đây mình mới uống lại trà sữa).
 
