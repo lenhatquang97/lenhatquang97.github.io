@@ -69,7 +69,7 @@ Này là một góc của khu Arab:
   <img src="/assets/images/mosque.jpeg" width="40%" /> 
 </p>
 
-Sau khi đi dạo quanh Bugis xong, mình mới quay về khách sạn lúc đó gần 9h tối mình checkin xong rồi dạo xung quanh khu Arab xem có gì ăn. Tuy nhiên, chỗ nào giá cũng mắc :), món khai vị và món chính đều trên 10 SGD. Mình mới tìm 1 món thấp nhất và có thể tạm ăn được (thực ra khó ăn) kèm với bánh mì của người Thổ. Tuy nhiên khi nhìn bill thì ngoài phí thuế là GST ra còn thêm SVC Charge (khoảng tiền phí dịch vụ, còn sự thực là gì thì search Google).
+Sau khi đi dạo quanh Bugis xong, mình mới quay về khách sạn lúc đó gần 9h tối mình checkin xong rồi dạo xung quanh khu Arab xem có gì ăn. Tuy nhiên, chỗ nào giá cũng mắc :), món khai vị và món chính đều trên 10 SGD. Mình mới tìm 1 món thấp nhất và có thể tạm ăn được (thực ra khó ăn, món ở phía dưới hình là cà tím sốt cà chua ô liu mà quên tên món là gì rồi @@) kèm với bánh mì của người Thổ. Tuy nhiên khi nhìn bill thì ngoài phí thuế là GST ra còn thêm SVC Charge (khoảng tiền phí dịch vụ, còn sự thực là gì thì search Google). Và kể từ đó mình không ghé quán ăn ở khu Arab Street nữa :))
 
 ![Arab Food](/assets/images/turkey_food.jpeg)
 
