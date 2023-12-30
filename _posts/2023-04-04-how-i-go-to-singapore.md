@@ -20,13 +20,12 @@ Bài viết này sẽ không thể liệt kê hết tất cả các vật dụng
 
 Nói về những vật dụng:
 - Adapter đầu cắm điện (từ 2 chui sang 3 chui). Nên xem trước hình dạng đầu cắm điện ra sao ở Singapore, vì 3 chui có thể mỗi nước mỗi khác. Còn lỡ trường hợp mua nhầm đầu adapter như mình có thể tìm store là Challenger ở Singapore (khắp nơi đều bán, trong sân bay Changi cũng có). Giá của một đầu adapter mình mua tại đó là 3.5 đô :) 
-- Khăn giấy bịch: quán ăn hay food court không có khăn giấy sẵn đâu.
+- Khăn giấy bịch: quán ăn hay food court không có khăn giấy sẵn đâu. **Nói gì thì nói, mình qua một vài quán ăn ở Sài Gòn đều phải mang theo khăn giấy bịch do là khăn ở quán ăn phải tính tiền thêm**.
 - Ô che mưa. Đợt tháng 3 mình đi thì mưa khá nhiều và khá dữ dội.
-- Laptop :), còn lý do vì sao thì ráng kéo tới phần sau thì mình sẽ cho bạn xem nguyên nhân
 
-Giấy tờ, thẻ blah blah:
-- Hộ chiếu còn thời hạn ít nhất 6 tháng
-- Vé máy bay khứ hồi đặt trước, khách sạn đặt trước. Vé máy bay khứ hồi tổng là 3 triệu 2 (có cả ký gửi, trong đó lượt đi là 1 triệu 2)
+Giấy tờ và các loại thẻ:
+- Hộ chiếu còn thời hạn ít nhất 6 tháng.
+- Vé máy bay khứ hồi đặt trước và khách sạn đặt trước. Vé máy bay khứ hồi tổng là 3 triệu 2 (có cả ký gửi, trong đó lượt đi là 1 triệu 2). 
 - Khai báo ICA (trước ít nhất 3 ngày và tối đa bao nhiêu tiếng thì mình không nhớ, do đó bạn nên xem trước)
 - Thẻ Ezlink (dùng để đi tàu điện, vì taxi ở phía Singapore cực kỳ mắc) và SIM dùng cho 4G.
 - Tiền mặt, cỡ 200 SGD/người là đủ, lý do là vì có những food court chỉ dùng tiền mặt như Chinatown. Ở food court của Chinatown hoặc 1 số vùng khác có cho phép thanh toán bằng ví điện tử như DBS Paylah (ví này chỉ chấp nhận mỗi ngân hàng DBS của Singapore), và có GrabPay. Tuy nhiên không khuyến khích xài cách này, vì lúc nạp vào sẽ có chênh lệch tỉ giá, nhiều lúc hơi thiệt thòi cho bản thân. 
@@ -37,7 +36,7 @@ Giấy tờ, thẻ blah blah:
 - Ngày 4: Ra sân bay Changi, để tham quan Jewel Changi và chuẩn bị về nước.
 
 ## Ngày 1
-Buổi sáng sớm thức dậy ra sân bay làm thủ tục các thứ, sau đó tầm trưa là tới Terminal 4. Ở khu thủ tục check ICA thì chỉ có quét khuôn mặt và lấy dấu vân tay, nhưng bạn nên thủ sẵn email xác nhận ICA để trình nếu hải quan cần. Sau đó mình nhận SIM và thẻ Ez-link đã đặt trước và qua Terminal 3 để đi MRT bằng xe buýt trung chuyển miễn phí. Mình đi vào khách sạn gửi đồ trước, nhưng khách sạn bảo chưa tới thời gian checkin nên đành phải để đồ tại nơi đó và đi qua khu Bugis ăn uống.
+Buổi sáng sớm thức dậy ra sân bay làm thủ tục các thứ, sau đó tầm trưa là tới Terminal 4. Ở khu thủ tục check ICA thì chỉ có quét khuôn mặt và lấy dấu vân tay, nhưng bạn nên thủ sẵn email xác nhận ICA để trình nếu hải quan cần. Có một điều mình chưa hiểu là **bạn sẽ được vào hàng line nhập cảnh riêng nếu bạn nằm trong khối ASEAN (một chị bên nhập cảnh có hỏi mình là mình có thuộc trong khối ASEAN không, sau khi mình nói có là họ kêu mình vào line này nhập cảnh)**. Sau đó mình nhận SIM và thẻ Ez-Link đã đặt trước và qua Terminal 3 để đi MRT bằng xe buýt trung chuyển miễn phí. Mình đi vào khách sạn gửi đồ trước, nhưng khách sạn bảo chưa tới thời gian checkin nên đành phải để đồ tại nơi đó và đi qua khu Bugis ăn uống.
 
 ![Changi Airport](/assets/images/changi.jpeg)
 
@@ -128,7 +127,7 @@ Sau đó gần trưa mình làm một tô cơm thịt gà Terriyaki với trứn
 
 ![Teriyaki Rice](/assets/images/terriyaki_rice.jpeg)
 
-Lúc này mình mới đi qua Sentosa ở lầu 3, và tới trạm Imbiah Station. Mình đi bộ tới Skyline Luge để lấy vé do mình đã đặt trên Klook, tuy nhiên người bán bảo là không đặt Klook trước, phải đặt giờ chơi trước. Chắc người ta thấy mình nai tơ, và lần đầu đi nên họ xếp cho mình 1h chiều là được chơi. Thành ra lúc đi là 11h30 nên mình phải đợi 1h chiều. Đến tới lúc này, mình quyết đinh tìm chỗ dừng chân và mình qua Starbucks dừng chân và tranh thủ ngồi học đem laptop tới 1h chiều (đó, đó, lý do đó). 
+Lúc này mình mới đi qua Sentosa ở lầu 3, và tới trạm Imbiah Station. Mình đi bộ tới Skyline Luge để lấy vé do mình đã đặt trên Klook, tuy nhiên người bán bảo là không đặt Klook trước, phải đặt giờ chơi trước. Chắc người ta thấy mình nai tơ, và lần đầu đi nên họ xếp cho mình 1h chiều là được chơi. Thành ra lúc đi là 11h30 nên mình phải đợi 1h chiều. Đến tới lúc này, mình quyết đinh tìm chỗ dừng chân và mình qua Starbucks dừng chân và tranh thủ ngồi học đem Laptop tới 1h chiều. 
 
 ![Starbucks](/assets/images/starbuck.jpeg)
 
@@ -167,8 +166,9 @@ Chi phí về nhà ở thuộc hàng đắt đỏ, nên chỗ ở sẽ hơi nh�
 ## Singapore thích hợp cho những ai?
 - Những người mới du lịch một mình và ra nước ngoài lần đầu, hoặc mong muốn tìm một góc nhìn mới khác lạ so với Việt Nam. Singapore khá là an toàn, sạch sẽ và thân thiện. 
 - Gia đình. Đối với trẻ nhỏ thì chắc chắn sẽ có nhiều lựa chọn hơn, ví dụ như Universal, Sea Aquarium, Botanic Gardens,...
-- Thích mua sắm. Singapore có nhiều khu mua sắm, rất nhiều thương hiệu. 
+- Thích mua sắm. Singapore có nhiều khu mua sắm, rất nhiều thương hiệu. Bản thân mình nếu đi mua đồ đa số là đi mua cho người thân, bạn bè và đồng nghiệp chứ mình không có mua nhiều.
 - Mong muốn rèn luyện đôi chân vàng. Đi bộ nhiều và đi tàu điện nhiều.
+- Thích một đất nước đa văn hóa, nếu Trung thì có Chinatown, Ấn Độ thì Little India hay Trung Đông có Arab Street.
 
 ## Lời khuyên
 - Chọn khách sạn gần khu mình muốn đi chơi (gần cỡ 500m chẳng hạn), giá sẽ hơi chát nhưng bù lại đi chơi khá là thuận tiện. Đừng nên chọn phòng con nhộng.
